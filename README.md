@@ -6,6 +6,8 @@ Major things done:
 -Keeping Node.js Running on server
 -deploying code into server
 
-http://ec2-18-220-176-227.us-east-2.compute.amazonaws.com/
+This project was just for practice.
+
+AWS EC2 instance in no longer available. 
 
 All thanks to this tutorial: https://hackernoon.com/tutorial-creating-and-managing-a-node-js-server-on-aws-part-2-5fbdea95f8a1
